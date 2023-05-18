@@ -1,0 +1,178 @@
+[
+    {
+        "title": "Hair Cutting & Styling",
+        "price": "$20",
+        "time": "1hour",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "Female",
+        "img": "https://i.ibb.co/GRKpGGM/service1.jpg"
+    },
+    {
+        "title": "Face Treatment",
+        "price": "$45",
+        "time": "2.5hour",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "male",
+        "img": "https://i.ibb.co/WvpLzzd/service2.jpg"
+    },
+    {
+        "title": "Scalp Treatment",
+        "price": "$60",
+        "time": "3hour",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "Male",
+        "img": "https://i.ibb.co/svCftZJ/service3.jpg"
+    },
+    {
+        "title": "Nail Treatment",
+        "price": "$35",
+        "time": "1.5hour",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "Female",
+        "img": "https://i.ibb.co/cy54Tx2/service4.jpg"
+    },
+    {
+        "title": "Razor Shaves",
+        "price": "$10",
+        "time": "45min",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "Male",
+        "img": "https://i.ibb.co/SJ22VXX/service6.jpg"
+    },
+    {
+        "title": "Hair Stylish Color",
+        "price": "$25",
+        "time": "2.5hour",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "Male",
+        "img": "https://i.ibb.co/mcgqDdF/service5.jpg"
+    },
+    {
+        "title": "Groom Party Packages",
+        "price": "$80",
+        "time": "3.5hour",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "Female",
+        "img": "https://i.ibb.co/s6BTvG5/service7.jpg"
+    },
+    {
+        "title": "Tatto Design",
+        "price": "$60",
+        "time": "3hour",
+        "slots": [
+            "8:00am",
+            "9:00am",
+            "10:00am",
+            "11:00am",
+            "12:00am",
+            "1:00pm",
+            "2:00pm",
+            "3:00pm",
+            "4:00pm",
+            "5:00pm",
+            "6:00pm",
+            "7:00pm",
+            "8:00pm"
+        ],
+        "barber": "Male",
+        "img": "https://i.ibb.co/gVKKJ21/man-doing-tattoo-tattoo-salon-1.jpg"
+    }
+]
