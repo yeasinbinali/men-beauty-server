@@ -132,6 +132,12 @@ async function run() {
       res.send(reviews);
     })
 
+    app.post("/reviews", async (req, res) => {
+      const review = req.body;
+      const result = await reviewsCollection.insertOne(review);
+      res.send(result);
+    });
+
     app.delete('/users/:id', async(req, res) => {
       const id = req.params.id;
       const query = {_id: new ObjectId(id)};
